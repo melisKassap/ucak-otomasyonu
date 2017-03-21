@@ -10,10 +10,10 @@
  
  ## Screenshots of program
  
- [Image-1](http://i.imgur.com/m1IdiL7.jpg)
- [Image-2](http://i.imgur.com/p0Mki2P.jpg)
- [Image-3](http://i.imgur.com/PjdMGqO.jpg)
- [Image-4](http://i.imgur.com/ZOkPvjF)
- [Image-5](http://i.imgur.com/BpFDiap)
- [Image-6](http://i.imgur.com/LhydZHc)
+![Image-1](http://i.imgur.com/m1IdiL7.jpg)
+![Image-2](http://i.imgur.com/p0Mki2P.jpg)
+![Image-3](http://i.imgur.com/PjdMGqO.jpg)
+![Image-4](http://i.imgur.com/ZOkPvjF)
+![Image-5](http://i.imgur.com/BpFDiap)
+![Image-6](http://i.imgur.com/LhydZHc)
   
